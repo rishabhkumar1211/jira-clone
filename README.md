@@ -1,4 +1,6 @@
+# Preview
 
+<img src="../fullstack-kanban-app/client/public/preview.png">
 
 # Reference
 
@@ -6,5 +8,3 @@
     - React beautiful dnd: https://github.com/atlassian/react-beautiful-dnd/
     - Material-UI: https://mui.com/
     - Express: https://expressjs.com/
-
-
