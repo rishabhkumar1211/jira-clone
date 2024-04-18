@@ -1,5 +1,3 @@
-!["Full Stack Kanban App | React Node MongoDB Material-UI"](https://user-images.githubusercontent.com/67447840/177310317-3d9ad738-af83-4cc1-976a-c4a54c1033ff.png "Full Stack Kanban App | React Node MongoDB Material-UI")
-
 # Description
 
 JIRA is a software development tool used for project management and issue tracking. It is a popular tool among software development teams to plan, track, and release software projects. JIRA provides a centralized platform for managing tasks, bugs, and other types of issues and it helps teams to organize and prioritize their work. The tool integrates with other software development tools and has a variety of customizable features and workflows that allow teams to adapt it to their specific needs. Additionally, JIRA also provides various reporting and dashboard features that help teams to stay on top of their work and make data-driven decisions.And we try to clone it as it possible with react js ,mongo,node,material ui.
