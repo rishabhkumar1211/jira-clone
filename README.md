@@ -12,15 +12,3 @@ JIRA is a software development tool used for project management and issue tracki
 # Live Link
 
 https://flowboard-b0f9e.web.app/boards
-
-
-## Stats
-
-<!-- BADGES:START -->
-<!-- BADGES:END -->
-
-
-## Changelog
-
-<!-- CHANGELOG:START -->
-<!-- CHANGELOG:END -->
